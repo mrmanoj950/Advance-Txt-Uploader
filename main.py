@@ -176,7 +176,7 @@ SUBSCRIPTION_FILE = "subscription_data.txt"
 CHANNELS_FILE = "channels_data.json"
 
 # Admin ID
-YOUR_ADMIN_ID = 618670084
+YOUR_ADMIN_ID = 1780523256
 
 # Function to read subscription data
 def read_subscription_data():
